@@ -142,8 +142,8 @@ footer {
   }
 
   .color {
-    margin-top: 50%;
-    margin-bottom: 50%;
+    margin-top: auto;
+    margin-bottom: auto;
   }
 
   .container {
