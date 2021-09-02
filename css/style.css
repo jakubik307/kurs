@@ -74,6 +74,7 @@ section {
   width: 100%;
   height: 100vh;
   scroll-snap-align: start;
+  scroll-snap-stop: always;
 }
 
 section h1 {
@@ -146,7 +147,7 @@ footer {
   }
 
   .container {
-    scroll-snap-type: proximity;
+    scroll-snap-type: y proximity;
   }
 }
 
