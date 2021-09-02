@@ -22,6 +22,8 @@ body {
   overflow-y: scroll;
   scroll-behavior: smooth;
   scroll-snap-type: y mandatory;
+  -webkit-overflow-scrolling: touch;
+  overflow-scrolling: touch;
 }
 
 .color {
