@@ -10,6 +10,7 @@ body {
   color: #F8EBE8;
   line-height: 1.3;
   height: 100vh;
+  min-height: -webkit-fill-available;
 }
 
 .container {
@@ -73,6 +74,7 @@ section {
   text-align: center;
   width: 100%;
   height: 100vh;
+  min-height: -webkit-fill-available;
   scroll-snap-align: start;
   scroll-snap-stop: always;
 }
