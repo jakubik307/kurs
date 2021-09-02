@@ -4,17 +4,12 @@
   box-sizing: border-box;
 }
 
-html {
-  height: 100%;
-}
-
 body {
   font-family: 'Kaisei HarunoUmi', serif;
   background: #d7d2cd;
   color: #F8EBE8;
   line-height: 1.3;
   height: 100vh;
-
 }
 
 .container {
