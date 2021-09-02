@@ -15,6 +15,7 @@ body {
 .container {
   width: 100%;
   height: 100%;
+  height: calc(var(--vh, 1vh) * 100);
   overflow-y: scroll;
   scroll-behavior: smooth;
   scroll-snap-type: y mandatory;
@@ -73,6 +74,7 @@ section {
   text-align: center;
   width: 100%;
   height: 100vh;
+  height: calc(var(--vh, 1vh) * 100);
   scroll-snap-align: start;
   scroll-snap-stop: always;
 }
