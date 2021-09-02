@@ -10,6 +10,7 @@ body {
   color: #F8EBE8;
   line-height: 1.3;
   height: 100vh;
+  position: absolute;
 }
 
 .container {
