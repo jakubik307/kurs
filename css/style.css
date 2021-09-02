@@ -136,14 +136,14 @@ footer {
   font-size: 0.7rem;
 }
 
-@media (hover: none) and (pointer: coarse) {
+@media (hover: none) {
   .navbar {
     width: 100%;
   }
 
   .color {
-    margin-top: calc(50% - 30px);
-    margin-bottom: calc(50% + 30px);
+    margin-top: 50%;
+    margin-bottom: 50%;
   }
 
   .container {
