@@ -142,8 +142,8 @@ footer {
   }
 
   .color {
-    margin-top: calc(50% + 30px);
-    margin-bottom: calc(50% - 30px);
+    margin-top: calc(50% - 30px);
+    margin-bottom: calc(50% + 30px);
   }
 
   .container {
